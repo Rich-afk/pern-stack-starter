@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "ag-grid-community": "^28.2.0",
+    "ag-grid-react": "^28.2.0",
     "axios": "^0.27.2",
     "react-query": "^3.39.2",
     "zustand": "^4.1.1"
